@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiscountEr</string>
+    <string name="discount_money"><![CDATA[Discount -> Money]]></string>
+    <string name="money_discount"><![CDATA[Money -> Discount]]></string>
+    <string name="l">=</string>
+    <string name="harga_yang_perlu_dibayar">Harga yang perlu Dibayar</string>
+    <string name="discount">DISCOUNT (%)</string>
+    <string name="masukkan_harga_barang">Masukkan Harga Barang</string>
+    <string name="harga_barang_rp">HARGA BARANG (Rp)</string>
+</resources>
